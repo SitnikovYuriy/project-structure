@@ -1906,6 +1906,7 @@ button.is-loading > span {
 .sales .sortable-table__row {
   grid: auto-flow / 10% 33% 33% 12% 12%;
 }
+
 .products-list {
   display: flex;
   flex-direction: column;
@@ -1948,6 +1949,7 @@ button.is-loading > span {
   justify-content: center;
   color: var(--grey);
 }
+
 /* Styles for components  */
 /* components */
 
