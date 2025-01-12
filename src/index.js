@@ -34,7 +34,7 @@ class MainPage {
       </div>
       <aside class="sidebar">
         <h2 class="sidebar__title">
-          <a href="/${URL_PATH}">shop admin</a>
+          <a href="/${URL_PATH}">shop admin!</a>
         </h2>
         <ul class="sidebar__nav">
           <li>
